@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+tmp/
+models/
+outputs/
+Qilin-IR-50K/
+*.rar
+.DS_Store
